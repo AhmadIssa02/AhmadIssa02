@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AhmadIssa02/AhmadIssa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,11 +17,13 @@ Here are some ideas to get you started:
 
 I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programming.
 
-- <img src="assets/focus.gif" width="30"> Mastering python and ts.
+- <img src="assets/focus.gif" width="30">I am currently learning Next.js and Nest.js.
+- <img src="assets/112-book-morph-outline.gif" width="30"> Currently working on a website that teaches Arduino for kids with Ninjaco. 
+- <img src="assets/focus.gif" width="30"> I enjoy working on Data Structures and Algorithms in Java and Python.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
-# Tools and Languages
+# Tools and Languages <img src="assets/409-tool-outline.gif" width="40">
 
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
 <div style="display:flex"> 
