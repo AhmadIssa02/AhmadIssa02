@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 -->
 # Hello There!  <img src="assets/hello.gif" width="80">
 
-I am <strong>Charbel</strong> aka <strong>Murf</strong>, a CS student, who loves programming in a creative manner.
+I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programming.
 
-- <img src="assets/112-book-morph-outline.gif" width="30"> Currently working on a research in ML
-- <img src="assets/134-target-outline.gif" width="30"> I’m currently learning Genetic Programming.
-- <img src="assets/19-magnifier-zoom-search-outline.gif" width="30"> Ask me about anything tech related.
 - <img src="assets/focus.gif" width="30"> Mastering python and ts.
-- More info [here](https://murfy.netlify.app/)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
-# Tools and Languages <img src="assets/409-tool-outline.gif" width="40">
+# Tools and Languages
 
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
 <div style="display:flex"> 
