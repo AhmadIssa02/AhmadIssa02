@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello There!  <img src="assets/1872-small-cute-monster-gradient.gif" width="120">
+# Hello There!  <img src="assets/icons8-so-so-skin-type-4-48.png" width="35">
 
 I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programming.
 
 - <img src="assets/245-edit-document-outline.gif" width="30">I am currently learning Next.js and Nest.js.
-# - <img src="assets/112-book-morph-outline.gif" width="30"> Currently working on a website that teaches Arduino for kids with Ninjaco. 
+# - <img src="assets/112-book-morph-outline.gif" width="30"> I am currently working on a website that teaches Arduino for kids with Ninjaco. 
 - <img src="assets/680-it-developer-lineal.gif" width="30"> I enjoy working on Data Structures and Algorithms in Java and Python.
 - <img src="assets/stats.gif" width="30"> I am passionate about data analytics.
 
@@ -82,7 +82,7 @@ I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programm
 </div>
 <hr>
 
-# Socials <img src="assets/1872-small-cute-monster-gradient.gif" width="40">
+# Socials <img src="assets/1872-small-cute-monster-gradient.gif" width="90">
 
 <p align="left"> <a href="www.linkedin.com/in/ahmad-issa-0a7306212" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://github.com/AhmadIssa02" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/ahmad_issaa02/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
