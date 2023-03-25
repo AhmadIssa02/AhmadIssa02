@@ -99,12 +99,12 @@ I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programm
    <table>
       <tr>
        <th>Profile stats  </th>
-<!--        <th>Language Contribution</th> -->
+       <th>Language Contribution</th>
      </tr>
       <tr>
        <td><img alt="Ahmad :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=AhmadIssa02&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true"> </td>
-<!--          <td><img alt="Ahmad :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadIssa02&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"> 
-     </tr> -->
+         <td><img alt="Ahmad :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadIssa02&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"> 
+     </tr>
    </table>
 </p>
 
