@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello There!  <img src="assets/hello.gif" width="80">
+# Hello There!  <img src="assets/1872-small-cute-monster-gradient.gif" width="120">
 
 I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programming.
 
-- <img src="assets/focus.gif" width="30">I am currently learning Next.js and Nest.js.
-- <img src="assets/112-book-morph-outline.gif" width="30"> Currently working on a website that teaches Arduino for kids with Ninjaco. 
-- <img src="assets/focus.gif" width="30"> I enjoy working on Data Structures and Algorithms in Java and Python.
+- <img src="assets/245-edit-document-outline.gif" width="30">I am currently learning Next.js and Nest.js.
+# - <img src="assets/112-book-morph-outline.gif" width="30"> Currently working on a website that teaches Arduino for kids with Ninjaco. 
+- <img src="assets/680-it-developer-lineal.gif" width="30"> I enjoy working on Data Structures and Algorithms in Java and Python.
+# - <img src="assets/112-book-morph-outline.gif" width="30"> I am passionate about data analytics.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -27,13 +28,10 @@ I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programm
 
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
 <div style="display:flex"> 
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> 
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-3670A0?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -45,31 +43,21 @@ I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programm
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
 <div style="display:flex"> 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"> 
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+ <img src="assets/MongoDB-Logo.jpg" height=28 width=80>
 </div>
 <hr>
 
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/> - <img height="20px" src="https://img.shields.io/badge/Library-505558"/></h3>
 <div style="display:flex"> 
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> 
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white">
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">
-<img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
 </div>
-<hr>
+<!-- <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Platform-487088"/></h3>
 <div style="display:flex"> 
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -79,7 +67,7 @@ I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programm
 <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
-<hr>
+<hr> -->
 
 <h3><img height="20px" src="https://img.shields.io/badge/Tool-6c598f"/></h3>
 <div style="display:flex"> 
