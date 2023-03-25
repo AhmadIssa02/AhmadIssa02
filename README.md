@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programming.
 
 - <img src="assets/245-edit-document-outline.gif" width="30">I am currently learning Next.js and Nest.js.
-# - <img src="assets/112-book-morph-outline.gif" width="30"> I am currently working on a website that teaches Arduino for kids with Ninjaco. 
+- <img src="assets/478-computer-display-gradient (1).gif" width="30"> I am currently working on a website that teaches Arduino for kids with Ninjaco. 
 - <img src="assets/680-it-developer-lineal.gif" width="30"> I enjoy working on Data Structures and Algorithms in Java and Python.
 - <img src="assets/stats.gif" width="30"> I am passionate about data analytics.
 
