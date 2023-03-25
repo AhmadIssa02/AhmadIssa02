@@ -20,7 +20,7 @@ I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programm
 - <img src="assets/245-edit-document-outline.gif" width="30">I am currently learning Next.js and Nest.js.
 # - <img src="assets/112-book-morph-outline.gif" width="30"> Currently working on a website that teaches Arduino for kids with Ninjaco. 
 - <img src="assets/680-it-developer-lineal.gif" width="30"> I enjoy working on Data Structures and Algorithms in Java and Python.
-# - <img src="assets/112-book-morph-outline.gif" width="30"> I am passionate about data analytics.
+- <img src="assets/stats.gif" width="30"> I am passionate about data analytics.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -43,7 +43,7 @@ I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programm
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
 <div style="display:flex"> 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
- <img src="assets/MongoDB-Logo.jpg" height=28 width=80>
+  <img src="https://img.shields.io/badge/mongoDB-3670A0?style=for-the-badge&logo=mongoDB&logoColor=green">
 </div>
 <hr>
 
@@ -57,6 +57,7 @@ I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programm
  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
+
 <!-- <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Platform-487088"/></h3>
 <div style="display:flex"> 
@@ -71,47 +72,44 @@ I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programm
 
 <h3><img height="20px" src="https://img.shields.io/badge/Tool-6c598f"/></h3>
 <div style="display:flex"> 
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> 
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <hr>
 
-# Socials <img src="assets/hello.gif" width="40">
+# Socials <img src="assets/1872-small-cute-monster-gradient.gif" width="40">
 
-<p align="left"> <a href="https://discord.com/users/Murf#1533" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Murf-y" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/charbel-fayad-7ba9b1203" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Murf_y" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="www.linkedin.com/in/ahmad-issa-0a7306212" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://github.com/AhmadIssa02" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/ahmad_issaa02/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 # Github Achievements <img src="assets/focus.gif" width="30">
 [![trophy](https://github-profile-trophy.vercel.app/?username=AhmadIssa02&column=8&margin-w=15&margin-h=15&theme=Dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murf-y&label=Profile%20views&color=0e75b6&style=flat" alt="AhmadIssa02" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmadIssa02&label=Profile%20views&color=0e75b6&style=flat" alt="AhmadIssa02" /> </p>
 
 
 # Stats <img src="assets/stats.gif" width="40">
- <div align="center">
-  <img src="https://www.codewars.com/users/Murf/badges/large" alt="Murf's Codewars badge">
-</div>
+<!--  <div align="center">
+  <img src="https://www.codewars.com/users/Murf/badges/large" >
+</div> -->
 <p align="center">
    <table>
       <tr>
        <th>Profile stats  </th>
-       <th>Language Contribution</th>
+<!--        <th>Language Contribution</th> -->
      </tr>
       <tr>
-       <td><img alt="Murf :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Murf-y&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true"> </td>
-       <td><img alt="Murf :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murf-y&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"> </td>
-     </tr>
+       <td><img alt="Ahmad :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=AhmadIssa02&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true"> </td>
+<!--          <td><img alt="Ahmad :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadIssa02&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"> 
+     </tr> -->
    </table>
 </p>
 
-
+<!-- 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Murf-y/Attractors-Simulation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Murf-y&repo=Attractors-Simulation&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+<div width="100%" align="center"><a href="https://github.com/AhmadIssa02/Attractors-Simulation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadIssa02&repo=Attractors-Simulation&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+ -->
