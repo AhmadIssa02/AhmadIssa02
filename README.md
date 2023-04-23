@@ -22,7 +22,7 @@ I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programm
 - <img src="assets/680-it-developer-lineal.gif" width="30"> I enjoy working on Data Structures and Algorithms in Java and Python.
 - <img src="assets/stats.gif" width="30"> I am passionate about data analytics.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 # Tools and Languages <img src="assets/409-tool-outline.gif" width="40">
 
@@ -98,15 +98,28 @@ I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programm
 <p align="center">
    <table>
       <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
+       <th>Profile Stats  </th>
      </tr>
-      <tr>
-       <td><img alt="Ahmad :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=AhmadIssa02&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true"> </td>
-         <td><img alt="Ahmad :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadIssa02&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"> 
+     <tr>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadissa02&show_icons=true&locale=en" height="150%" alt="ahmadissa02" width="95%" height="220px"  /> </td>
+     <tr/>        
+     <tr>
+      <th>Language Contribution</th>
+     <tr>
+      <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadissa02&show_icons=true&locale=en&layout=compact" alt="ahmadissa02" width="95%" height="177px" /></td>
      </tr>
+     <tr>
+       <th>Total Contributions and Streaks</th>
+     </tr>
+    <tr> 
+      <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadissa02&bg_color=171717&" alt="ahmadissa02" width="95%" height="190px" /></td>
+    </tr>
    </table>
 </p>
+
+
+
+
 
 <!-- 
 <b>Top Repositories</b>
