@@ -101,7 +101,7 @@ I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programm
        <th>Profile Stats  </th>
      </tr>
      <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadissa02&show_icons=true&locale=en" height="150%" alt="ahmadissa02" width="95%" height="220px"  /> </td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadIssa02&show_icons=true&count_private=true&&locale=en" height="150%" alt="ahmadissa02" width="95%" height="220px"/> </td>
      <tr/>        
      <tr>
       <th>Language Contribution</th>
