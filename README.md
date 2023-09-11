@@ -109,11 +109,11 @@ I am <strong>Ahmad Issa</strong>, a CS student, who is passionate about programm
       <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadissa02&show_icons=true&locale=en&layout=compact" alt="ahmadissa02" width="95%" height="177px" /></td>
      </tr>
      <tr>
-       <th>Total Contributions and Streaks</th>
+<!--        <th>Total Contributions and Streaks</th>
      </tr>
     <tr> 
       <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadissa02&bg_color=171717&" alt="ahmadissa02" width="95%" height="190px" /></td>
-    </tr>
+    </tr> -->
    </table>
 </p>
 
